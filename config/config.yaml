@@ -47,6 +47,11 @@ weight:
   hotness_weight: 0.1 # 热度权重
 
 platforms:
+  - id: "weibo"
+    name: "微博"  
+  - id: "douyin"
+    name: "抖音"
   - id: "wallstreetcn-quick"
     name: "华尔街见闻"
+    
 
